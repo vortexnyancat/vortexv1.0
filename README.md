@@ -1,2 +1,2 @@
 # vortexv1.0
-Vortex is a that allows you to play g@mes at school unbl0cked
+Hey there! Im going to be keeping version notes here
